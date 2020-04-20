@@ -27,12 +27,12 @@ url: "http://nathan-hahn.github.io"
 twitter_username: nathanrhahn
 github_username:  nathan-hahn
 
-author:
-    name: 'Nathan Hahn'
-    url: nathan-hahn.github.io
-
-github:
-  repo: https://github.com/nathan-hahn/nathan-hahn.github.io
+# author:
+#     name: 'Nathan Hahn'
+#     url: nathan-hahn.github.io
+#
+# github:
+#   repo: https://github.com/nathan-hahn/nathan-hahn.github.io
 
 collections:
 - publications
