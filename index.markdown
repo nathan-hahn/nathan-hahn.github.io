@@ -12,4 +12,6 @@ I am currently a PhD candidate working in the Wittemyer Lab in the department of
 ## Selected Work
 - Drones & Elephants -- add raiding video?
 - Ecoregion planning
-- Chili fences 
+- Chili fences
+
+Updated
