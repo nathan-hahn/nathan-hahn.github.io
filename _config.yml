@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nathan Hahn | PhD Candidate
+title: Nathan Hahn
 email: nathan.hahn@colostate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Conservation Technology and Spatial Ecology
@@ -31,6 +31,9 @@ github_username:  nathan-hahn
 theme: minima
 # plugins:
 #   - jekyll-feed
+
+collections:
+  - publications
 
 # exclude:
 #   - .sass-cache/
