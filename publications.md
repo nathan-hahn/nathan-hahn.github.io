@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 {% for pub in site.publications %}
-  {% if pub.authors contains "Nathan Hahn" %}
+  {% if publications.authors contains "Nathan Hahn" %}
   {{ publications.content | }}
   {% endif %}
 {% endfor %}
