@@ -3,8 +3,9 @@ layout: page
 title: Publications
 ---
 
-{% for publications in site.publications reverse %}
-  {% if publications.authors contains "Nathan Hahn" %}
-  {{ publications.content }}
+{% assign sorted = (site.publications | sort: 'date') | reverse %}
+{% for pubs in sorted %}
+  {% if pubs.authors contains "Nathan Hahn" %}
+  {{ pubs.content }}
   {% endif %}
 {% endfor %}
