@@ -7,11 +7,20 @@ title: Home
 ---
 
 ## Bio
-I am currently a PhD candidate working in the Wittemyer Lab in the department of Fish, Wildlife, and Conservation Biology at Colorado State University. My research is focused on human-wildlife interactions - . I am also exploring new devices for conservation that leverage advances in AI and IoT technologies to deliver real-time information to conservationists on the front lines.
+I am a PhD candidate working in the [Wittemyer Lab](https://sites.warnercnr.colostate.edu/georgewittemyer/) in the department of Fish, Wildlife, and Conservation Biology at Colorado State University. My research is focused on human impacts to at risk wildlife populations and determining how landscape, human, and behavioral factors contribute to human-wildlife interactions using animal movement and demography. I am currently working with the Mara Elephant Project to investigate how expanding agriculture and increasing fragmentation from fencing and forest clearing is contributing to conflict between humans and elephants. 
+
+I am also interested in how conservationists can leverage technologies - through adaptation or new designs - to advance research and protect wildlands. I serve as a Conservation Technologies Consultant for [Biodiversity and Wildlife Solutions](https://www.resolve.ngo/biodiversity_and_wildlife.htm), where I develop technologies aimed at addressing biodiversity conservation issues including poaching and human-wildlife conflict.
+
+
 
 ## Selected Work
+### Human-Wildlife Interactions
 - Drones & Elephants -- add raiding video?
-- Ecoregion planning
-- Chili fences
+- Chili
 
-Updated
+### Technologies for human-wildlife Interactions
+- Drones (multi-use)
+- TrailGuard w/ links
+
+### Conservation Planning
+- Ecoregion planning
